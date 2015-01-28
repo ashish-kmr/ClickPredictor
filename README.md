@@ -2,7 +2,7 @@
 
 Commands:
 
-python process_data_test.py < test.csv > test_processed.csv      
+python process_data_train.py < train.csv > train_processed.csv      
 Converts data to the input format of vw
 
 
